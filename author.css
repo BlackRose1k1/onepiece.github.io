@@ -35,7 +35,7 @@ body {
     color: #aaa;
   }
   
-  a { text-decoration: none; color:rgb(70, 68, 68); }
+  a { text-decoration: none; color:rgb(51, 50, 50) }
 a:visited { text-decoration: none; }
 a:hover { text-decoration: none; }
 a:focus { text-decoration: none; }
