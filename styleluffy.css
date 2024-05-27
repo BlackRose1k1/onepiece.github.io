@@ -379,3 +379,13 @@ a:hover, a:active { text-decoration: none; }
   right: 50.9%;
   bottom: 10%;
 }
+
+#audio {
+  width: 20%;
+  height: 2%;
+  position: absolute;
+  right: 0%;
+  bottom: 0%;
+  z-index: 3;
+  float: none;
+}
